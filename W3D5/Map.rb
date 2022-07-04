@@ -45,7 +45,7 @@ class Map
     end
   end
 
-  def show
+  def show ##deeep dup the array
 
   end
 end
