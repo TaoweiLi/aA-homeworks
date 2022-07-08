@@ -77,5 +77,7 @@ class Simon
   end
 end
 
-s = Simon.new
-s.play
+# s = Simon.new
+# s.play
+
+
